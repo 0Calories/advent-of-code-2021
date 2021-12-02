@@ -19,7 +19,7 @@ def getDepthAndPos():
     file.close()
     return horizontalPos * depth
 
-# print(getDepthAndPos())
+print(getDepthAndPos())
 
 
 # Solution to part 2
